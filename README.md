@@ -5,6 +5,8 @@ Detection of near-duplicate documents
 A sample implementation of Charikar's hash for identification of similar
 documents.
 
+<https://github.com/vilda/shash>
+
 
 How to
 ------
