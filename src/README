@@ -1,0 +1,8 @@
+ * Implementation of the M. Charikar's [1] document similarity hash.
+ * Uses Jenkins' hash functions
+ *
+ * Public domain
+ * 2007 Viliam Holub
+ *
+ * [1] Charikar
+ * Similarity Estimation Techniques from Rounding Algorithms
